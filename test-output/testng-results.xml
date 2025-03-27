@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-27T17:29:32 CET" name="Default suite" finished-at="2025-03-27T17:30:29 CET" duration-ms="57550">
+    <groups>
+    </groups>
+    <test started-at="2025-03-27T17:29:32 CET" name="Default test" finished-at="2025-03-27T17:30:29 CET" duration-ms="57550">
+      <class name="tests.LambdaTest">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:29:32 CET" name="initializeBrowser" finished-at="2025-03-27T17:29:46 CET" duration-ms="14651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="testInputForm()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:29:46 CET" name="testInputForm" finished-at="2025-03-27T17:29:54 CET" duration-ms="7841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:29:54 CET" name="tearDown" finished-at="2025-03-27T17:29:54 CET" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:29:54 CET" name="initializeBrowser" finished-at="2025-03-27T17:30:06 CET" duration-ms="12144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="testSimpleForm()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:30:06 CET" name="testSimpleForm" finished-at="2025-03-27T17:30:11 CET" duration-ms="4554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSimpleForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:30:11 CET" name="tearDown" finished-at="2025-03-27T17:30:11 CET" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:30:11 CET" name="initializeBrowser" finished-at="2025-03-27T17:30:25 CET" duration-ms="13420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="testSlider()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:30:25 CET" name="testSlider" finished-at="2025-03-27T17:30:29 CET" duration-ms="4426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSlider -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LambdaTest@7bedc48a]" started-at="2025-03-27T17:30:29 CET" name="tearDown" finished-at="2025-03-27T17:30:29 CET" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LambdaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
